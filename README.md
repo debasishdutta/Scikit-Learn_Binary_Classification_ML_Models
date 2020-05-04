@@ -9,7 +9,7 @@ Description: The repository consists of below list of machine learning algorithm
 	2. Random Forest
 	3. SVM
 	4. GBM
-	7. Xgboost
+	5. Xgboost
 
 Note:
 1. This scripts perform k-fold cross validation with hyper parameter tuning 

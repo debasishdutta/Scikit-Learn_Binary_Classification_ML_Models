@@ -3,7 +3,7 @@ Binary Classification Models Using Scikit-Learn Package In Python
 
 Disclaimer: This code snippet is developed with an intension for generic use only. I hereby declare that the code was not part of any of my professional development work. Also, no sensitive or confidential data sources are used for this development.
 
-Description: The repository consists of below list of machine learning algorithms for regression problem:
+Description: The repository consists of below list of machine learning algorithms for binary classification problem:
 
 	1. Logistic Regression
 	2. Random Forest
